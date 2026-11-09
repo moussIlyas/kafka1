@@ -1,6 +1,6 @@
-package com.mouss.springkafka.controllers;
+package com.Moussll.springkafka.controllers;
 
-import net.mouss.springkafka.events.PageEvent;
+import net.youssfi.springkafka.events.PageEvent;
 import org.apache.kafka.streams.KeyValue;
 import org.apache.kafka.streams.kstream.Windowed;
 import org.apache.kafka.streams.state.KeyValueIterator;

@@ -1,4 +1,4 @@
-package com.mouss.springkafka.core;
+package com.Moussll.springkafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

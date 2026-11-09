@@ -1,4 +1,4 @@
-package com.mouss.springkafka.events;
+package net.youssfi.springkafka.events;
 
 import java.util.Date;
 

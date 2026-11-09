@@ -1,6 +1,6 @@
-package com.mouss.springkafka.handlers;
+package com.Moussll.springkafka.hanndlers;
 
-import net.mouss.springkafka.events.PageEvent;
+import net.youssfi.springkafka.events.PageEvent;
 import org.apache.kafka.common.metrics.stats.Avg;
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.streams.KeyValue;
